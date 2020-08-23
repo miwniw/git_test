@@ -1,4 +1,7 @@
-01 hello world
-02 hello me
-03 hello amend
+﻿01 hello world in master branch
+02 hello world in feature branch
+03 hello me
 04 hello amend
+05 hello amend
+06 end in master branch
+07 end feature branch
